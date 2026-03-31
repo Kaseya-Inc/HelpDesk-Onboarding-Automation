@@ -1,0 +1,6 @@
+{
+  "Name": "HelpDesk-Onboarding-Automation",
+  "ProjectType": "Process",
+  "Description": "Onboarding Automation for the Helpdesk",
+  "MainFile": "Main.xaml"
+}
